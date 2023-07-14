@@ -1,0 +1,30 @@
+Dataset Options:
+Breast Cancer - Moh
+Diabetes - Moh
+Statlog (Credit check) - Yael/Moh
+Thyroid Disease - Yael
+Predict students' dropout and academic success - Yeal
+
+Cleaning Part:
+
+-Check null values
+-Trim string values
+-Check duplication
+
+
+EDA Part
+>>> most common crime > Yael
+>>> compare with other Toronot.ca open data sources and check for relationship between crimes, highly populates and income > Yael
+>>> what month/day of week/ time of day do most crimes occur at > Yael
+>>> which area/neighbourhood has higher crime rate > Mohammed  
+>>> what kind of spaces do most crimes occur at ? apartments, outdoors, house etc > Mohammed.
+>>> crimes trends > mohammed
+
+
+Meetings:
+- Monday July 10 @ 1:00 pm > Select the dataset
+- Tuesday July 11 @ 1:45 pm > Cleaning
+- Wednesday July 12 @ 10:00 am  > EDA + Statiscal model
+- Thursday July 13 @ 10:00 am > Discuss the EDA part, plan for the dashboard.
+- Thursday July 13 @ 9:00 pm > go thru dashboard and practice for the presentation.
+- Friday July 14 @ 10:00 am
